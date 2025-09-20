@@ -1,0 +1,20 @@
+{
+  "model_id": "building_001",
+  "name": "Faction HQ",
+  "tags": ["faction_alpha", "commercial", "high_security"],
+  "wallet_gate": {
+    "required_token": "ALPHA_PASS",
+    "min_balance": 1
+  },
+  "dapp_terminal": {
+    "type": "exchange",
+    "url": "https://alpha.exchange/dapp"
+  },
+  "overlay": {
+    "type": "hologram",
+    "color": "#00FFAA",
+    "intensity": 0.8
+  },
+  "position_offset": [0, 0, 0],
+  "scale": [1, 1, 1]
+}

@@ -1,0 +1,22 @@
+{
+  "character_id": "npc_guard_01",
+  "name": "Sentinel Vex",
+  "faction": "IronWall",
+  "attributes": {
+    "health": 150,
+    "strength": 80,
+    "agility": 40,
+    "intelligence": 30
+  },
+  "inventory": ["weapon_laser_rifle", "item_keycard"],
+  "behavior": {
+    "type": "patrol",
+    "route": "gate_loop",
+    "alert_radius": 15
+  },
+  "dialogue_tree": "guard_dialogue_01",
+  "wallet_gate": {
+    "required_token": "IRON_PASS",
+    "min_balance": 2
+  }
+}

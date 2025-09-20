@@ -1,0 +1,15 @@
+{
+  "character_id": "npc_guard_01",
+  "attributes": {
+    "health": 150,
+    "strength": 80,
+    "agility": 40,
+    "intelligence": 30,
+    "armor": 50,
+    "resistance": {
+      "fire": 0.2,
+      "ice": 0.1,
+      "plasma": 0.5
+    }
+  }
+}

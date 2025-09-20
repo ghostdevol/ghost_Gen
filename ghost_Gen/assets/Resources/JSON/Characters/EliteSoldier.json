@@ -1,0 +1,12 @@
+{
+  "name": "EliteSoldier",
+  "type": "Character",
+  "rarity": "Epic",
+  "stats": {
+    "health": 150,
+    "speed": 7,
+    "armor": 50
+  },
+  "abilities": ["Jump", "Sprint", "Crouch"],
+  "tags": ["GhostDevol", "NeoSynth"]
+}

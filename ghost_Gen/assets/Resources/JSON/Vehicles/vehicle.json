@@ -1,0 +1,20 @@
+{
+  "vehicle_id": "hover_taxi_01",
+  "type": "transport",
+  "faction": "CityFleet",
+  "capacity": 4,
+  "speed": 120,
+  "fuel_type": "plasma",
+  "wallet_gate": {
+    "required_token": "CITY_PASS",
+    "min_balance": 1
+  },
+  "dapp_terminal": {
+    "type": "ride_request",
+    "url": "https://cityfleet.app/dapp"
+  },
+  "overlay": {
+    "type": "neon_glow",
+    "color": "#FFD700"
+  }
+}

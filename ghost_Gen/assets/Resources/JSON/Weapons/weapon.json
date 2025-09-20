@@ -1,0 +1,15 @@
+{
+  "weapon_id": "laser_rifle_01",
+  "name": "VX-9 Laser Rifle",
+  "type": "ranged",
+  "damage": 35,
+  "range": 100,
+  "ammo_type": "energy_cell",
+  "faction": "IronWall",
+  "effects": ["burn", "knockback"],
+  "compatible_classes": ["soldier", "guard"],
+  "wallet_gate": {
+    "required_token": "ARMORY_ACCESS",
+    "min_balance": 1
+  }
+}
