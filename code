@@ -1,0 +1,12 @@
+
+## Getting Started
+1. Clone the repo
+2. Open in Unity 2022+
+3. Run `GhostGen → Validate Asset Links` from the Editor menu
+4. Use the UI panel to spawn assets manually
+
+## License
+MIT — see [LICENSE](LICENSE)
+
+## Author
+Daniel — Modular systems architect, indie developer, and music producer
